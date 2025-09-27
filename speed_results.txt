@@ -1,0 +1,6 @@
+保定1,http://101.74.28.175:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,1.794 MB/s
+世界地理,http://101.74.28.175:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0,0.601 MB/s
+山东卫视,http://101.74.28.175:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广东卫视,http://101.74.28.175:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+河北影视,http://101.74.28.175:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+河北科教,http://101.74.28.175:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,1.625 MB/s
