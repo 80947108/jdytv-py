@@ -1,3 +1,12 @@
 央视频道,#genre#
+CCTV8,http://221.13.235.106:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://221.13.235.106:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://221.13.235.106:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
 其他频道,#genre#
+会议中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/taishan03_1/index.m3u8
+公共,http://221.13.235.106:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+商务中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/jhs02_1/index.m3u8
+新闻,http://221.13.235.106:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+河南戏曲,http://221.13.235.106:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+礼宴中心直播,http://gcbsc.v.live.baishancdnx.cn/gc/yxxdpf_1/index.m3u8
