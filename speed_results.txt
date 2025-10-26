@@ -1,2 +1,0 @@
-CCTV5,http://118.248.170.97:8088/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0,1.163 MB/s
-CCTV12,http://118.248.170.97:8088/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0,1.163 MB/s
