@@ -1,3 +1,6 @@
 央视频道,#genre#
 卫视频道,#genre#
+东方卫视,http://118.248.167.92:8088/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://118.248.167.92:8088/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+湖南娱乐,http://118.248.167.92:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
