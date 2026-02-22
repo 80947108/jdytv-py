@@ -1,0 +1,5 @@
+CCTV1,http://101.74.28.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
+CCTV7,http://118.72.48.240:888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+东方卫视,http://118.72.48.240:888/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+江西卫视,http://118.72.48.240:888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+湖北卫视,http://118.72.48.240:888/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
