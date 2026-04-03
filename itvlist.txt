@@ -1,3 +1,13 @@
 央视频道,#genre#
+CCTV6,http://221.13.235.74:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://221.13.235.74:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://221.13.235.74:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://221.13.235.74:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://221.13.235.74:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+河南卫视,http://221.13.235.74:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+公共,http://221.13.235.74:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://221.13.235.74:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+河南戏曲,http://221.13.235.74:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://221.13.235.74:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
