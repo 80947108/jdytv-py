@@ -1,2 +1,0 @@
-CCTV9,http://182.114.48.199:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
-浙江卫视,http://182.114.48.199:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
