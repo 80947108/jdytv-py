@@ -1,0 +1,5 @@
+CCTV13,http://218.13.170.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,0.451 MB/s
+兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0,0.354 MB/s
+新闻,http://221.13.235.66:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,0.451 MB/s
+西藏卫视,http://218.13.170.98:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0,0.451 MB/s
+都市,http://221.13.235.66:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0,0.354 MB/s
